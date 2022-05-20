@@ -1,1 +1,3 @@
 The project was completed in the first semester of my Masters and therefore has some slipperies.
+
+Overall, a multilinear regression model is built for predicting healthcare expenses given certain features of individuals based on the data from an insurance business in America, with no multicollinearity problem identified (figure 6). The modelling process adopted AIC method for variable selection and log transformation for linearity. Although the data is skewed to the right with heteroscedastic problem, cross-validation results suggest that it is a good model. However, it should be emphasised that the model will need extra modelling and training if it is to be applied to a different place other than the US.
